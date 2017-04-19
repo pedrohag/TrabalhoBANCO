@@ -1,0 +1,56 @@
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csprojResolveAssemblyReference.cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroConta.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Properties.Resources.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaInicio.resources
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.GenerateResource.Cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroCliente.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroConta.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Properties.Resources.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaDepo.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaInicio.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaOperacoes.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaSaldo.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaSaque.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaTran.resources
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\Pedro\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroCliente.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroConta.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Properties.Resources.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaDepo.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaInicio.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaOperacoes.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaSaldo.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaSaque.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaTran.resources
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\Lab\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroCliente.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.CadastroConta.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Properties.Resources.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaDepo.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaInicio.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaOperacoes.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaSaldo.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaSaque.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.TelaTran.resources
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.GenerateResource.Cache
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\pedro.gomes\Desktop\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
